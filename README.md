@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jessie
-- 👀 I’m interested in travelling, movies and coding
+- 👀 I’m interested in travelling, movies, coding and thinking
 - 🌱 I’m currently learning Python, data structures and algorithms
-- 💞️ I’m looking to collaborate on all projects about cloud and dev work
+- 💞️ I’m looking to collaborate on all projects around cloud, I've had experiences in dev, devops, and automation testing projects
 📫 
 
 <!---
