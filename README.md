@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jessie
-- 👀 I’m interested in travelling, movies, coding and thinking
-- 🌱 I’m currently learning Python, data structures and algorithms
-- 💞️ I’m looking to collaborate on all projects around cloud, I've had experiences in dev, devops, and automation testing projects
+- 🌱 I am a .NET API and integration developer at enterprise scale
+- 💞️ I’m looking forward to collaborating on all cloud native projects
 📫 
 
 <!---
