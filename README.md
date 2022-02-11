@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessie
+- 👋 Hi, I’m Jessie.
 - 🌱 A commercial .NET API and integration developer. 
 - 💻 Currently, I am learning React, performing a deep-dive on C# and JS.
 - 🍵 Data structures and algorithms is one of my favourite topics.
