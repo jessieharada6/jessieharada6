@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Jessie
-- 🌱 I am a .NET API and integration developer at enterprise scale. 
+- 🌱 A commercial .NET API and integration developer. 
+- 💻 Currently, I am learning React, performing a deep-dive on C# and JS.
+- 🍵 Data structures and algorithms is one of my favourite topics.
+- 😇 I love open source and aim to contribute!
 - 🧚🏻 Looking forward to collaborating on all cloud native projects.
 
 <!---
