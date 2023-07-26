@@ -4,7 +4,6 @@
 - 😌 Coffee and stories keep me sane
 - 🐳 I love open source and am keen to contribute
 - 🧚🏻 Looking forward to collaborating on all cloud native projects
-- 💻 To know more about me, check out on https://medium.com/@jessie.harada
 
 <!---
 jessieharada6/jessieharada6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
